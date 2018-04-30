@@ -1,0 +1,6 @@
+# venv
+venv/
+
+# flask cache
+__pycache__/
+
